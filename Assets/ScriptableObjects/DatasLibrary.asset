@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2b9fd95579f1b6e429817e8e9924e3fd, type: 3}
+  m_Name: DatasLibrary
+  m_EditorClassIdentifier: 
+  charactersDatas:
+  - {fileID: 11400000, guid: 3e28623ff97c836499eef4f4e6725b0f, type: 2}
+  - {fileID: 11400000, guid: 76a3b8eccbe3c56439c12beaa40bd2ba, type: 2}
+  - {fileID: 11400000, guid: 5f43121095a5ece4c98bde7598555b42, type: 2}
+  - {fileID: 11400000, guid: 15bc34e40e9cbaf4a810486418d8a487, type: 2}
+  albumDatas:
+  - {fileID: 11400000, guid: 8ef1e38724f62cd4caf86569a7d5c818, type: 2}
+  - {fileID: 11400000, guid: 457028450489a6b45b5c06eee15d5c7c, type: 2}
+  pictureDatas: []
+  audioDatas: []
+  videoDatas:
+  - {fileID: 11400000, guid: b791a6c8b974bcb48bc520615e6dc498, type: 2}
