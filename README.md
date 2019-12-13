@@ -6,7 +6,7 @@
 > - [Demigiant's DOTween Pro](https://assetstore.unity.com/packages/tools/visual-scripting/dotween-pro-32416)
 > - [Richard Meredith's Reflex CLI - Debug Console](https://assetstore.unity.com/packages/tools/input-management/reflexcli-debug-console-100638)
   
-# [📽️Exhaustlands - LD42📽️](https://sandgardeners.itch.io/exhaustlands)
+# [🚗Exhaustlands - LD42🚗](https://sandgardeners.itch.io/exhaustlands)
 
 [![game's screenshot](ld42.png)](https://sandgardeners.itch.io/exhaustlands)
 
@@ -20,4 +20,5 @@ We will always encourage and stand behind the creation of derivative works, muta
 
 Please feel free to reuse and/or modify any part of these projects (code, sprites, models, audio) that can be useful for your personal or commercial projects. Only the Sand Gardeners logo and name, as well as the third-party assets and code we do not own are not released under the CC0 license.
 
-We understand that we are only small fish, but as a declaration of intent and philosophy, we hope this plays a part in the creation of something new. And if you happen to make anything out of our work, tell us! [We want to hear from you! :)](mailto:sandgardeners@gm
+We understand that we are only small fish, but as a declaration of intent and philosophy, we hope this plays a part in the creation of something new. And if you happen to make anything out of our work, tell us! [We want to hear from you! :)](mailto:sandgardeners@gmail.com)
+
